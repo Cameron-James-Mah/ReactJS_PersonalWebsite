@@ -1,0 +1,26 @@
+ul {
+    position: absolute;
+    top: 93%;
+    left: 87%;
+    display: flex;
+    list-style: none;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 5%;
+
+    li {
+        a {
+            display: block;
+            font-size: 25px;
+            color: #4d4d4e;
+            &:hover svg {
+                color: #ffd700;
+            }
+        }
+    }
+}
