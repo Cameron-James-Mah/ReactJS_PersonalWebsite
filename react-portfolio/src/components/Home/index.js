@@ -1,6 +1,7 @@
 import Menubar from '../Menubar';
 import BottomLinks from '../BottomLinks';
 import pathing from '../../assets/images/pathing.gif'
+import sudoku from '../../assets/images/sudoku.gif'
 import { NavLink } from 'react-router-dom';
 import './index.scss';
 const Home = () => {
@@ -15,7 +16,11 @@ const Home = () => {
                 <nav className = "projects">
                     <NavLink exact = "true" activeclassname="active" to='/pathing'>
                         <h4>2D Pathing Visualizer</h4>
-                        <img src={pathing} width="90%" height="90%" alt="2D pathing Visualizer"></img>
+                        <img src={pathing} alt="2D pathing Visualizer gif"></img>
+                    </NavLink>
+                    <NavLink exact = "true" activeclassname="active" to='/sudoku'>
+                        <h4>Sudoku</h4>
+                        <img src={sudoku} alt="sudoku gif"></img>
                     </NavLink>
                 </nav>
             </div>

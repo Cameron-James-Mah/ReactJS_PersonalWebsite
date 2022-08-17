@@ -1,0 +1,76 @@
+/*
+.grid-container {
+  display: inline-grid;
+  -ms-layout-grid: fixed;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto;
+  background-color: #474f55;
+  padding: 10px;
+  height: 800px;
+  width: 800px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}*/
+.Sudoku-page{
+    position: absolute;
+    top: 15%;
+    left: 31.5%;
+    table {
+            border-collapse: collapse;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    
+        colgroup,
+        tbody {
+            border: solid medium;
+        }
+    
+        td {
+            border: solid thin;
+            height: 2.4em;
+            width: 2.4em;
+            text-align: center;
+            font-size: 30px;
+            padding: 0;
+        }
+    
+        input {
+            border: solid thin;
+            height: 2.4em;
+            width: 2.4em;
+            text-align: center;
+            font-size: 30px;
+            padding: 0;
+        }
+    
+        button {
+            padding: 15px 32px;
+            font-size: 15px;
+        }
+    
+        .options {
+            margin: 0;
+            position: absolute;
+            left: 50%;
+            -ms-transform: translate(-50%);
+            transform: translate(-50%);
+        }
+    
+        .Title {
+            text-align: center;
+            font-size: 50px;
+        }
+}
+
