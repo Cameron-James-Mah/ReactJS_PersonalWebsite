@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactJS_PersonalWebsite/static/css/main.e116b3ea.css",
-    "main.js": "/ReactJS_PersonalWebsite/static/js/main.30713b86.js",
+    "main.css": "/ReactJS_PersonalWebsite/static/css/main.584ba1d9.css",
+    "main.js": "/ReactJS_PersonalWebsite/static/js/main.7a9825b0.js",
     "static/media/pathing.gif": "/ReactJS_PersonalWebsite/static/media/pathing.df7ea34dac5f8f95f379.gif",
     "static/media/sudoku.gif": "/ReactJS_PersonalWebsite/static/media/sudoku.692337e11eeb6671e6e8.gif",
     "static/media/helvetica-neu.ttf": "/ReactJS_PersonalWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/ReactJS_PersonalWebsite/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/ReactJS_PersonalWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/ReactJS_PersonalWebsite/index.html",
-    "main.e116b3ea.css.map": "/ReactJS_PersonalWebsite/static/css/main.e116b3ea.css.map",
-    "main.30713b86.js.map": "/ReactJS_PersonalWebsite/static/js/main.30713b86.js.map"
+    "main.584ba1d9.css.map": "/ReactJS_PersonalWebsite/static/css/main.584ba1d9.css.map",
+    "main.7a9825b0.js.map": "/ReactJS_PersonalWebsite/static/js/main.7a9825b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e116b3ea.css",
-    "static/js/main.30713b86.js"
+    "static/css/main.584ba1d9.css",
+    "static/js/main.7a9825b0.js"
   ]
 }
